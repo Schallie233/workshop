@@ -20,7 +20,6 @@ tools:
 safe-outputs:
   mentions: false
   allowed-github-references: []
-  max-bot-mentions: 0
   create-issue:
     title-prefix: "[weekly-report] "
     max: 1
